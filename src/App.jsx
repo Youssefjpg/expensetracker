@@ -64,6 +64,8 @@ export default function App() {
           margin="0 auto"
         >
           <Heading level={1}>Expense Tracker</Heading>
+          <Text color="gray">Track your daily spending effortlessly</Text>
+
           <View as="form" margin="3rem 0" onSubmit={createExpense}>
             <Flex
               direction="column"
