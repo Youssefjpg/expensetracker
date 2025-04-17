@@ -114,7 +114,7 @@ export default function App() {
                 gap="2rem"
                 border="1px solid #ccc"
                 padding="2rem"
-                borderRadius="5%"
+                borderRadius="50%"
                 className="box"
               >
                 <View>
